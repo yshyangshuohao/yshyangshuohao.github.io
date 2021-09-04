@@ -648,7 +648,7 @@ aside:
       link: https://github.com/xxxxxx
   card_announcement:
     enable: true
-    content: 如果你遇到了问题可以给我留言哦！
+    content: 如果你遇到了问题可以给我留言哦！没有找到需要下载的软件可以给我留言耶，本站会及时提供！
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
