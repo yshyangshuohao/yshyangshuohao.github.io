@@ -22,5 +22,3 @@ cover: https://img-blog.csdnimg.cn/910510c81859427cad93c8bab719339e.jpg
 # 结尾
 如果你遇到了什么问题，可以在评论下方给我留言。
 
-封面
-![在这里插入图片描述](https://img-blog.csdnimg.cn/910510c81859427cad93c8bab719339e.jpg)
