@@ -95,7 +95,7 @@ disable_top_img: false
 index_img:
 
 # If the banner of page not setting, it will show the top_img
-default_top_img: https://img-blog.csdnimg.cn/617be0dc6f0f4333bd4a7ee94c51f68d.gif#pic_center
+default_top_img: https://img-blog.csdnimg.cn/36bcd59913f349e098a854da361532ab.gif#pic_center
 
 # The banner image of archive page
 archive_img:
@@ -837,6 +837,7 @@ css_prefix: true
 inject:
   head:
     # - <link rel="stylesheet" href="/xxx.css">
+  - <link rel="stylesheet" href="/css/iconfont.css">
   - <link rel="stylesheet" href="/css/lantern.css">
   - <link rel="stylesheet" href="/css/footer.css">
   - <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/HCLonely/images@master/others/heartbeat.min.css">
