@@ -3,7 +3,7 @@ title: 超详细WondershareFilmoraX10免费下载安装
 date: 2021-09-04 21:34:36
 tags:
 - WondershareFilmoraX
-categories: Windows
+categories: 视频编辑
 cover: https://img-blog.csdnimg.cn/9eac2f07a59641f3a812f6574fb4f74c.jpg
 ---
 

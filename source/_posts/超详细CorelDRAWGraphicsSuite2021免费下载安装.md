@@ -4,7 +4,7 @@ date: 2021-09-04 21:29:44
 tags: 
 - CorelDRAWGraphicsSuite
 - 2021
-categories: Windows
+categories: 图形与设计
 cover: https://img-blog.csdnimg.cn/7158d5ccc27b43bd9191b452c8909748.png
 ---
 

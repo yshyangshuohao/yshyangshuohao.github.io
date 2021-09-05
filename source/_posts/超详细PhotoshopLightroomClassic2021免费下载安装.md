@@ -5,7 +5,7 @@ tags:
 - PhotoshopLightroomClassic
 - 2021
 - Adobe
-categories: Windows
+categories: 图形与设计
 cover: https://img-blog.csdnimg.cn/e9b8fe75422b4b25bca89dd0a8ded381.png
 ---
 

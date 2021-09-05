@@ -3,7 +3,7 @@ title: 超详细V-Ray5forSketchUp免费下载安装
 date: 2021-09-04 21:31:22
 tags:
 - V-Ray5forSketchUp
-categories: Windows
+categories: 工程与模拟
 cover: https://img-blog.csdnimg.cn/807f9a7f595943d1ac1e43ca0126e3d7.jpg
 ---
 

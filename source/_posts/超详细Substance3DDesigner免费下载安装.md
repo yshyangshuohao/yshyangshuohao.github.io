@@ -4,7 +4,7 @@ date: 2021-09-04 16:53:44
 tags:
 - Substance3DDesigner
 - Adobe
-categories: Windows
+categories: 工程与模拟
 cover: https://img-blog.csdnimg.cn/076af1249f6a4f2d8d0efd5fb3bee424.png
 ---
 

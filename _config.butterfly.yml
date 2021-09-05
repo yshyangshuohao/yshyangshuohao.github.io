@@ -454,11 +454,11 @@ google_adsense:
   enable_page_level_ads: true
 
 # Insert ads manually (手動插入廣告)
-# ad:
-#   index:
-#   aside:
-#   post:
-
+ad:
+  index: 
+  aside: 
+  post: 
+    
 # Verification (站長驗證)
 # --------------------------------------
 

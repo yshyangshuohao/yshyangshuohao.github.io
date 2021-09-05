@@ -3,7 +3,7 @@ title: 超详细RatiborusKMSTools免费下载安装
 date: 2021-09-04 21:35:36
 tags:
 - RatiborusKMSTools
-categories: Windows
+categories: 工具
 cover: https://img-blog.csdnimg.cn/c00fd84bbdb34fb5b0c44f44fb503950.png
 ---
 

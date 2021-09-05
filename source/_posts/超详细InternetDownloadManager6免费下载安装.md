@@ -3,7 +3,7 @@ title: 超详细InternetDownloadManager6免费下载安装
 date: 2021-09-04 21:33:35
 tags:
 - InternetDownloadManager
-categories: Windows
+categories: 下载管理
 cover: https://img-blog.csdnimg.cn/673ef2e8bfca4e7eb96dd1e1f376776c.jpg
 ---
 

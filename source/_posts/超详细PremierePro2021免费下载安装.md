@@ -5,7 +5,7 @@ tags:
 - PremierePro
 - 2021
 - Adobe
-categories: Windows
+categories: 图形与设计
 cover: https://img-blog.csdnimg.cn/810da1e1f9cc4de0b97891b5e8b035b8.png
 ---
 

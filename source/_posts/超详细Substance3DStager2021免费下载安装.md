@@ -5,7 +5,7 @@ tags:
 - Substance3DStager
 - 2021
 - Adobe
-categories: Windows
+categories: 工程与模拟
 cover: https://img-blog.csdnimg.cn/546358348d27478c9fa6aa0a2dfe36ab.png
 ---
 

@@ -5,7 +5,7 @@ tags:
 - InDesign
 - 2021
 - Adobe
-categories: Windows
+categories: 图形与设计
 cover: https://img-blog.csdnimg.cn/64a934e7734a4d19854d8e00de04aeca.jpg
 ---
 
