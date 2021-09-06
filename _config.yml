@@ -103,8 +103,8 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   - type: git
-    repo:
-      github: https://github.com/yshyangshuohao/yshyangshuohao.github.io.git,main
+    repo: https://github.com/yshyangshuohao/yshyangshuohao.github.io.git
+    branch: main
 
   - type: baidu_url_submitter
 
