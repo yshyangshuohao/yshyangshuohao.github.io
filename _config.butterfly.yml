@@ -269,8 +269,8 @@ comments:
   # lazyload: The comment system will be load when comment element enters the browser's viewport.
   # If you set it to true, the comment count will be invalid
   lazyload: false
-  count: false # Display comment count in post's top_img
-  card_post_count: false # Display comment count in Home Page
+  count: true # Display comment count in post's top_img
+  card_post_count: true # Display comment count in Home Page
 
 # disqus
 # https://disqus.com/
@@ -694,7 +694,7 @@ runtimeshow:
 newest_comments:
   enable: true
   sort_order: # Don't modify the setting unless you know how it works
-  limit: 3
+  limit: 5
   storage: 10 # unit: mins, save data to localStorage
   avatar: true
 
@@ -847,7 +847,9 @@ inject:
     - <div><canvas id="snow" style="position:fixed;top:0;left:0;width:100%;height:100%;z-index:99999;pointer-events:none"></canvas></div> #雪
     - <script>const notMobile = (!(navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i)));</script>
     - <script async type="text/javascript" src="https://cdn.jsdelivr.net/gh/Candinya/Kratos-Rebirth@latest/source/js/snow.min.js"></script> #雪
-    
+    - <script src="/js/jq.js"></script>
+    - <script src="/js/footer.js"></script>
+
 # CDN
 # Don't modify the following settings unless you know how they work
 # 非必要請不要修改
