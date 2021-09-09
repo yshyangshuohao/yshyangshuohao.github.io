@@ -8,13 +8,13 @@
 
 menu:
   首页: / || fas fa-home
+  商务合作: /cooperation/ || fas fa-user-circle
   时间轴: /archives/ || fas fa-archive
   标签: /tags/ || fas fa-tags
   分类: /categories/ || fas fa-folder-open
   # List||fas fa-list:
   #   Music: /music/ || fas fa-music
   #   Movie: /movies/ || fas fa-video
-  # Link: /link/ || fas fa-link
   关于: /about/ || fas fa-heart
 
 # Hide the child menu items in mobile sidebar
