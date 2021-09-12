@@ -420,11 +420,12 @@ footer:
 
 # Baidu Analytics
 # https://tongji.baidu.com/web/welcome/login
-baidu_analytics:
+baidu_analytics: f9331d720132b9136bc6e856355b4ef5
+
 
 # Google Analytics
 # https://analytics.google.com/analytics/web/
-google_analytics:
+google_analytics: G-5NDN106VC0
 
 # Tencent Analytics ID
 # https://mta.qq.com
