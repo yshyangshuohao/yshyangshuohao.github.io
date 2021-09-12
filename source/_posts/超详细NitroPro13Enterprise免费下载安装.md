@@ -2,7 +2,9 @@
 title: 超详细Nitro Pro 13.49.2.993 Enterprise免费下载安装
 date: 2021-09-11 08:39:59
 tags: Nitro Pro
-categories: 办公与PDF
+categories: 
+- Windows
+- 办公与PDF
 cover: https://img-blog.csdnimg.cn/8eb7f2ea748c4d84bfa794eea1c4e151.png
 ---
 

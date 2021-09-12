@@ -5,7 +5,9 @@ tags:
 - Photoshop
 - 2021
 - Adobe
-categories: 图形与设计
+categories:
+- Windows 
+- 图形与设计
 cover: https://img-blog.csdnimg.cn/3dbd7438f32b46beb4cfca6b1d6ea76f.jpg
 ---
 

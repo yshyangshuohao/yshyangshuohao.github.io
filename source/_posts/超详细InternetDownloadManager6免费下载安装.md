@@ -3,7 +3,9 @@ title: 超详细Internet Download Manager (IDM) 6.39.2免费下载安装
 date: 2021-09-04 21:33:35
 tags:
 - InternetDownloadManager
-categories: 下载管理
+categories: 
+- Windows
+- 下载管理
 cover: https://img-blog.csdnimg.cn/673ef2e8bfca4e7eb96dd1e1f376776c.jpg
 ---
 

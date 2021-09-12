@@ -2,7 +2,9 @@
 title: 超详细CCleaner Professional Plus 5.84.0.1免费下载安装
 date: 2021-09-07 23:42:47
 tags: CCleaner Professional 5
-categories: 工具
+categories: 
+- Windows
+- 工具
 cover: https://img-blog.csdnimg.cn/e4d2b9011680481baa096ac1b9656b6a.png
 ---
 

@@ -2,7 +2,9 @@
 title: 超详细Advanced System CarePro 14.6.0.307免费下载安装
 date: 2021-09-10 22:34:25
 tags: Advanced System CarePro
-categories: 工具
+categories: 
+- Windows
+- 工具
 cover: https://img-blog.csdnimg.cn/9349e2ef4ebc4b53a230f0007d440177.png
 ---
 

@@ -5,7 +5,9 @@ tags:
 - MediaEncoder
 - 2021
 - Adobe
-categories: 多媒体
+categories: 
+- Windows
+- 多媒体
 cover: https://img-blog.csdnimg.cn/a36dc4929eb34ecb9aa99c9ea70c14ae.jpg
 ---
 

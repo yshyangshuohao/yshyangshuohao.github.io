@@ -3,7 +3,9 @@ title: 超详细UTorrent Pro 3.5.5.46090免费下载安装
 date: 2021-09-04 21:37:29
 tags:
 - uTorrentPro
-categories: 下载管理
+categories: 
+- Windows
+- 下载管理
 cover: https://img-blog.csdnimg.cn/c859649c16f24b8792833e7ff42488b9.jpg
 ---
 

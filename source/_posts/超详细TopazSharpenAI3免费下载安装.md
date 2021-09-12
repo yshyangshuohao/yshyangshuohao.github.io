@@ -2,7 +2,9 @@
 title: 超详细Topaz Sharpen AI 3.2.2免费下载安装
 date: 2021-09-07 22:48:47
 tags: Topaz Sharpen AI
-categories: 图形与设计
+categories: 
+- Windows
+- 图形与设计
 cover: https://img-blog.csdnimg.cn/fc78ca8432304d7b9b430f7ff45a6c0e.png
 ---
 

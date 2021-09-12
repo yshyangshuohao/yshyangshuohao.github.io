@@ -5,7 +5,9 @@ tags:
 - Illustrator
 - 2021
 - Adobe
-categories: 图形与设计
+categories: 
+- Windows
+- 图形与设计
 cover: https://img-blog.csdnimg.cn/910510c81859427cad93c8bab719339e.jpg
 ---
 

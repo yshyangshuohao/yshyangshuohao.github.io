@@ -5,7 +5,9 @@ tags:
 - Audition
 - 2021
 - Adobe
-categories: 音频与音乐
+categories: 
+- Windows
+- 音频与音乐
 cover: https://img-blog.csdnimg.cn/a421a88beccc4ab2bcbbefc4c5133637.png
 ---
 

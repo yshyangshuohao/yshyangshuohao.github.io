@@ -5,7 +5,9 @@ tags:
 - AfterEffects
 - 2021
 - Adobe
-categories: 图形与设计
+categories:
+- Windows 
+- 图形与设计
 cover: https://img-blog.csdnimg.cn/84b9ea223458477f912392f5e2ade07c.png
 ---
 

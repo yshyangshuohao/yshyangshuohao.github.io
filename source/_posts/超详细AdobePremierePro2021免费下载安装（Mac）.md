@@ -5,7 +5,9 @@ tags:
 - Adobe
 - Premiere Pro
 - 2021
-categories: 图形与多媒体
+categories:
+- Mac 
+- 图形与多媒体
 cover: https://img-blog.csdnimg.cn/57b440dc4820460eae26bf8ad79b473c.png
 ---
 

@@ -4,7 +4,9 @@ date: 2021-09-11 08:42:57
 tags: 
 - Adobe Acrobat
 - 2021
-categories: 办公与PDF
+categories: 
+- Windows
+- 办公与PDF
 cover: https://img-blog.csdnimg.cn/8bc91c45327b425c83c89b2096797be8.png
 ---
 

@@ -3,7 +3,9 @@ title: 超详细WinRAR 6.02 Final免费下载安装
 date: 2021-09-04 21:36:33
 tags:
 - WinRAR
-categories: 文件压缩
+categories: 
+- Windows
+- 文件压缩
 cover: https://img-blog.csdnimg.cn/85221f798676463591b6cf54e6a3351a.jpg
 ---
 

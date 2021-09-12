@@ -3,7 +3,9 @@ title: 超详细IObit Driver Booster Pro 8.7.0.529免费下载安装
 date: 2021-09-04 21:27:03
 tags:
 - IObitDriverBoosterPro
-categories: 驱动程序与硬件
+categories: 
+- Windows
+- 驱动程序与硬件
 cover: https://img-blog.csdnimg.cn/c30d806c4f814c81b0f155138ca6e1fd.jpg
 ---
 

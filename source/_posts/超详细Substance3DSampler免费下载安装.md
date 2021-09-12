@@ -4,7 +4,9 @@ date: 2021-09-04 16:52:08
 tags:
 - Substance3DSampler
 - Adobe
-categories: 图形与设计
+categories: 
+- Windows
+- 图形与设计
 cover: https://img-blog.csdnimg.cn/cbc9ec7217db47afb6e0f6e46c31b9fd.png
 ---
 

@@ -1,10 +1,12 @@
 ---
 title: 超详细Autodesk Maya 2022免费下载安装
 date: 2021-09-11 08:37:13
-tags: 
+tags:
 - Maya
 - Adobe
-categories: 工程与模拟
+categories: 
+- Windows
+- 工程与模拟
 cover: https://img-blog.csdnimg.cn/e7e3a68685c24380bdbdf3350144bd24.png
 ---
 
