@@ -81,11 +81,11 @@ katex:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: https://img-blog.csdnimg.cn/6d46db29ad9f43db8a4c09aa15c23ac5.jpg
+favicon: https://img-blog.csdnimg.cn/a0ba0feecfa54d5c9139f2e35f68f44e.png
 
 # Avatar (頭像)
 avatar:
-  img: https://img-blog.csdnimg.cn/6d46db29ad9f43db8a4c09aa15c23ac5.jpg
+  img: https://img-blog.csdnimg.cn/a0ba0feecfa54d5c9139f2e35f68f44e.png
   effect: false
 
 # Disable all banner image
@@ -192,10 +192,10 @@ reward:
   QR_code:
     - img: https://img-blog.csdnimg.cn/652de707078243c49f888b8752dbb701.png
       link:
-      text: wechat
+      text: 微信
     - img: https://img-blog.csdnimg.cn/140f126026e44343bf9c09006adcbe6c.png
       link:
-      text: alipay
+      text: 支付宝
 
 # Post edit
 # Easily browse and edit blog source code online.
@@ -455,9 +455,10 @@ google_adsense:
 
 # Insert ads manually (手動插入廣告)
 ad:
-  index: 
-  aside: 
-  post: 
+#  index: <script type="text/javascript" data-adel="atag" src="//acscdn.com/script/atg.js" czid="b3pzfnqx"></script> 
+#  aside: <script type="text/javascript" data-adel="atag" src="//acscdn.com/script/atg.js" czid="b3pzfnqx"></script> 
+#  post: <script type="text/javascript" data-adel="atag" src="//acscdn.com/script/atg.js" czid="b3pzfnqx"></script> 
+
     
 # Verification (站長驗證)
 # --------------------------------------

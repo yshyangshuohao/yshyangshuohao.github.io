@@ -4,11 +4,11 @@ date: 2021-09-09 22:33:30
 type: cooperation
 ---
 
-# 商务合作
-
+# 联系方式
 >微信：18589833507  
 >QQ：2499134263     
->邮箱：2499134263@qq.com   
->邮箱：yshyangshuohao@gmail.com
-
+>邮箱：2499134263@qq.com（推荐）     
+>邮箱：yshyangshuohao@gmail.com    
+>邮箱：yshyangshuohao@163.com     
+>邮箱：yshyangshuohao@outlook.com
 
