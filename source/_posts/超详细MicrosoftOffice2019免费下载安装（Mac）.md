@@ -30,8 +30,9 @@ cover: https://img-blog.csdnimg.cn/4b0c154147154ac2806456ab33863d32.png
 - 磁盘空间：9 GB 可用空间
 
 # 下载
-[下载地址](https://pan.baidu.com/s/18DnbGS2ZyShPa8zt5Tz6iw)
-提取码：6666
+关注yshinstall公众号，然后回复Office获取下载链接和安装教程。
+
+![](https://img-blog.csdnimg.cn/f824f9d6c4ca40549a3d02de1938c17c.jpg#pic_center)
 
 # 解压
 解压密码：123

@@ -41,8 +41,9 @@ cover: https://img-blog.csdnimg.cn/e9b8fe75422b4b25bca89dd0a8ded381.png
 - 2 GB 可用硬盘空间用于程序安装。
 
 # 下载
-[下载地址](https://pan.baidu.com/s/1KP9S6QlToUhNIYQnZ8R9yA)
-提取码：6666
+关注yshinstall公众号，然后回复Photoshop Lightroom Classic或PLC获取下载链接和安装教程。
+
+![](https://img-blog.csdnimg.cn/f824f9d6c4ca40549a3d02de1938c17c.jpg#pic_center)
 
 # 解压
 解压密码：ysh

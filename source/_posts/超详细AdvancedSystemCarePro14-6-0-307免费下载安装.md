@@ -41,8 +41,9 @@ Advanced SystemCare Pro 可实时防御间谍软件和勒索软件等恶意程�
 - 可用硬盘空间：200 MB 或更多
 
 # 下载
-[下载地址](https://pan.baidu.com/s/18uflqq7cPaNHoRglgVUDNQ)
-提取码：6666
+关注yshinstall公众号，然后回复Advanced System CarePro或ASC获取下载链接和安装教程。
+
+![](https://img-blog.csdnimg.cn/f824f9d6c4ca40549a3d02de1938c17c.jpg#pic_center)
 
 # 解压
 解压密码：ysh

@@ -41,8 +41,9 @@ cover: https://img-blog.csdnimg.cn/3dbd7438f32b46beb4cfca6b1d6ea76f.jpg
 - 图形处理器加速要求：支持 OpenGL 2.0 的系统
 
 # 下载
-[下载地址](https://pan.baidu.com/s/12ipJjIgxgm9cxgCOByV6oQ)   
- 提取码：6666
+关注yshinstall公众号，然后回复ps或者photoshop获取下载链接和安装教程。
+
+![](https://img-blog.csdnimg.cn/f824f9d6c4ca40549a3d02de1938c17c.jpg#pic_center)
 
 # 解压
 解压密码：ysh

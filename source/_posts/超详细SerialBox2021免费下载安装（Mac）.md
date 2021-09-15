@@ -23,8 +23,9 @@ cover: https://img-blog.csdnimg.cn/4c047109e9fb4ec59dd137ad880493c8.png
 - 系统要求：OS X 10.6 或更高
 
 # 下载
-[下载地址](https://pan.baidu.com/s/1jUjvyiz9VF3rRezmE4vCyQ)
-提取码：6666
+关注yshinstall公众号，然后回复Serial Box或SB获取下载链接和安装教程。
+
+![](https://img-blog.csdnimg.cn/f824f9d6c4ca40549a3d02de1938c17c.jpg#pic_center)
 
 # 解压
 解压密码：123

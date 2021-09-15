@@ -45,8 +45,9 @@ Torrent 是一个著名的 BitTorrent 客户端，包括带宽优先、RSS 自�
 - 可用硬盘空间：200 MB 或更多
 
 # 下载
-[下载地址](https://pan.baidu.com/s/1o_JMjpdkJmXGUbBboCDmBg)
-提取码：6666
+关注yshinstall公众号，然后回复UTorrent Pro或UTorrent获取下载链接和安装教程。
+
+![](https://img-blog.csdnimg.cn/f824f9d6c4ca40549a3d02de1938c17c.jpg#pic_center)
 
 # 解压
 解压密码：ysh

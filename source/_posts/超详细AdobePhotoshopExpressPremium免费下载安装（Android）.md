@@ -26,8 +26,9 @@ cover: https://img-blog.csdnimg.cn/110645aa15184d0a86f52785613fc8c9.png
 - 透视校正 - 只需单击即可修复倾斜的透视照片！从自动（平衡或全自动）、垂直或水平校正选项中进行选择。
 
 # 下载
-[下载地址](https://pan.baidu.com/s/1MDRqh-QQZGYXS6LuokHIhQ)
-提取码：6666
+关注yshinstall公众号，然后回复Photoshop Express Premium或PEP获取下载链接和安装教程。
+
+![](https://img-blog.csdnimg.cn/f824f9d6c4ca40549a3d02de1938c17c.jpg#pic_center)
 
 # 解压
 不需要解压

@@ -35,8 +35,9 @@ V-Ray for SketchUp 易于使用并提供出色的结果。您可以使用它来�
 - 可用硬盘空间：推荐4GB或更多
 
 # 下载
-[下载地址](https://pan.baidu.com/s/15QJP1rfwm5-Q8qLlUNcV0A)
-提取码：6666
+关注yshinstall公众号，然后回复V-Ray或VR获取下载链接和安装教程。
+
+![](https://img-blog.csdnimg.cn/f824f9d6c4ca40549a3d02de1938c17c.jpg#pic_center)
 
 # 解压
 解压密码：ysh

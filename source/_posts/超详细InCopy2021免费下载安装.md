@@ -51,8 +51,9 @@ Adobe InCopy CC 2019 是涉及书面文案和设计工作的大型团队项目�
 - 导出 SWF 文件所需的 Adob​​e Flash Player 10 软件
 
 # 下载
-[下载地址](https://pan.baidu.com/s/11DRRGjx77VF95U0ZIBJCug)
-提取码：6666
+关注yshinstall公众号，然后回复InCopy获取下载链接和安装教程。
+
+![](https://img-blog.csdnimg.cn/f824f9d6c4ca40549a3d02de1938c17c.jpg#pic_center)
 
 # 解压
 解压密码：ysh

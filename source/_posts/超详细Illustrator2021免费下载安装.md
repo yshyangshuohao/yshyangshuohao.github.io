@@ -42,8 +42,9 @@ cover: https://img-blog.csdnimg.cn/910510c81859427cad93c8bab719339e.jpg
 - 1024 x 768 显示器（推荐 1280 x 800）
 
 # 下载
-[下载地址](https://pan.baidu.com/s/1WgCWw4Tb_0qJgUh_s1KpyA)
-提取码：6666
+关注yshinstall公众号，然后回复Illustrator或AI获取下载链接和安装教程。
+
+![](https://img-blog.csdnimg.cn/f824f9d6c4ca40549a3d02de1938c17c.jpg#pic_center)
 
 # 解压
 解压密码：ysh

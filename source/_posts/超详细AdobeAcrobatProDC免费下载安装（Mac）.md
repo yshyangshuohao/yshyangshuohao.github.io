@@ -41,8 +41,9 @@ cover: https://img-blog.csdnimg.cn/e20352646c6545fb98032cf42f191610.png
 - 1024x768 屏幕分辨率
 
 # 下载
-[下载地址](https://pan.baidu.com/s/1EfRSCGLrX1PyFT1PLqiZrA)
-提取码：6666
+关注yshinstall公众号，然后回复Acrobat Pro DC或APD获取下载链接和安装教程。
+
+![](https://img-blog.csdnimg.cn/f824f9d6c4ca40549a3d02de1938c17c.jpg#pic_center)
 
 # 解压
 解压密码：123

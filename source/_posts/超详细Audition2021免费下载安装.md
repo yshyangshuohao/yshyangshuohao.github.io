@@ -49,8 +49,9 @@ Adobe Audition（前身为 Adob​​e Audition CS6）是用于录制、编辑�
 - CD刻录：光驱用于CD刻录（可选）
 
 # 下载
-[下载地址](https://pan.baidu.com/s/1xJz5IiHVBCHtl-JH94qCOA)
-提取码：6666
+关注yshinstall公众号，然后回复Audition或AU获取下载链接和安装教程。
+
+![](https://img-blog.csdnimg.cn/f824f9d6c4ca40549a3d02de1938c17c.jpg#pic_center)
 
 # 解压
 解压密码：ysh

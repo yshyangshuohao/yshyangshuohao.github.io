@@ -55,8 +55,9 @@ cover: https://img-blog.csdnimg.cn/8eb7f2ea748c4d84bfa794eea1c4e151.png
 - 视频硬件加速（可选）
 
 # 下载
-[下载地址](https://pan.baidu.com/s/1BmuMAzN9Y-YCvCUx_fMtbA)
-提取码：6666
+关注yshinstall公众号，然后回复Nitro Pro或NP获取下载链接和安装教程。
+
+![](https://img-blog.csdnimg.cn/f824f9d6c4ca40549a3d02de1938c17c.jpg#pic_center)
 
 # 解压
 解压密码：ysh

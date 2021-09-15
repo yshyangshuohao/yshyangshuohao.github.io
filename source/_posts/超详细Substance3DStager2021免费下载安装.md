@@ -38,8 +38,9 @@ cover: https://img-blog.csdnimg.cn/546358348d27478c9fa6aa0a2dfe36ab.png
 - 硬盘：30 GB SSD
 
 # 下载
-[下载地址](https://pan.baidu.com/s/104b-78C-fy23D2O56S2H7w)
-提取码：6666
+关注yshinstall公众号，然后回复Substance 3D Stager或SG获取下载链接和安装教程。
+
+![](https://img-blog.csdnimg.cn/f824f9d6c4ca40549a3d02de1938c17c.jpg#pic_center)
 
 # 解压
 解压密码：ysh

@@ -45,8 +45,9 @@ cover: https://img-blog.csdnimg.cn/a36dc4929eb34ecb9aa99c9ea70c14ae.jpg
 - 可选：Adobe 推荐的 GPU 卡以实现 GPU 加速性能
 
 # 下载
-[下载地址](https://pan.baidu.com/s/1mbq13tYe8j3REbKBhOMH4w)
-提取码：6666
+关注yshinstall公众号，然后回复Media Encoder或ME获取下载链接和安装教程。
+
+![](https://img-blog.csdnimg.cn/f824f9d6c4ca40549a3d02de1938c17c.jpg#pic_center)
 
 # 解压
 解压密码：ysh

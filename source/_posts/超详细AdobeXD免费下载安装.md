@@ -36,8 +36,9 @@ Adobe XD 为 Mac 和 Windows 原生设计，是 Creative Cloud 的一部分，�
 - 显卡：最低 Direct 3D DDI 功能集：10。对于 Intel GPU，需要 2014 年或之后发布的驱动程序。要查找此信息，请从运行菜单启动“dxdiag”并选择“显示”选项卡。
 
 # 下载
-[下载地址](https://pan.baidu.com/s/1kde9xDdt3SK0yXwwc_8kEA)
-提取码：6666
+关注yshinstall公众号，然后回复XD CC或XD获取下载链接和安装教程。
+
+![](https://img-blog.csdnimg.cn/f824f9d6c4ca40549a3d02de1938c17c.jpg#pic_center)
 
 # 解压
 解压密码：ysh

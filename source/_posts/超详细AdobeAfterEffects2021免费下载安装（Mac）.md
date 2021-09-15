@@ -41,8 +41,9 @@ Adobe 提供了一套完整的动画应用程序，可以处理您的所有想�
 - 可选：Adobe 认证的 GPU 卡，用于 GPU 加速的光线追踪 3D 渲染器
 
 # 下载
-[下载地址](https://pan.baidu.com/s/1Iqo2DlJsvj3T4wWz1mHgEA)
-提取码：6666
+关注yshinstall公众号，然后回复After Effects或AE获取下载链接和安装教程。
+
+![](https://img-blog.csdnimg.cn/f824f9d6c4ca40549a3d02de1938c17c.jpg#pic_center)
 
 # 解压
 解压密码：123
