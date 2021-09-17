@@ -43,7 +43,7 @@ cover: https://img-blog.csdnimg.cn/6f3db8a6787d4d57a41e77da4e8b2885.png
 - 可选：要使用 GPU 性能：您的 Mac 应至少具有 1 GB 的 VRAM（建议使用 2 GB），并且您的计算机必须支持 OpenGL 4.0 或更高版本。
 
 # 下载
-关注yshinstall公众号，然后回复Illustrator或AI获取下载链接和安装教程。
+关注yshinstall公众号，然后回复illustrator或AI获取下载链接和安装教程。
 
 ![](https://img-blog.csdnimg.cn/f824f9d6c4ca40549a3d02de1938c17c.jpg#pic_center)
 
