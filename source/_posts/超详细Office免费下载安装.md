@@ -1,13 +1,14 @@
 ---
 title: 超详细Microsoft Office 2019 Pro Plus免费下载安装
-date: 2021-09-04 12:20:49
 tags:
-- Office
-- Microsoft
+  - Office
+  - Microsoft
 categories:
-- Windows 
-- 办公与PDF
-cover: https://img-blog.csdnimg.cn/a013d8037c7e4060a73901d92ffb2763.jpg
+  - Windows
+  - 办公与PDF
+cover: 'https://img-blog.csdnimg.cn/a013d8037c7e4060a73901d92ffb2763.jpg'
+abbrlink: 67cf474b
+date: 2021-09-04 12:20:49
 ---
 
 免费下载适用于 Windows PC 的 Microsoft Office 2019 Professional Plus Retail-VL 版本（32 位/64 位）多语言。

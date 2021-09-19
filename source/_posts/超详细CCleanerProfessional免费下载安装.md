@@ -1,11 +1,12 @@
 ---
 title: 超详细CCleaner Professional Plus 5.84.0.1免费下载安装
-date: 2021-09-07 23:42:47
 tags: CCleaner Professional 5
-categories: 
-- Windows
-- 工具
-cover: https://img-blog.csdnimg.cn/e4d2b9011680481baa096ac1b9656b6a.png
+categories:
+  - Windows
+  - 工具
+cover: 'https://img-blog.csdnimg.cn/e4d2b9011680481baa096ac1b9656b6a.png'
+abbrlink: 73471c30
+date: 2021-09-07 23:42:47
 ---
 
 免费下载适用于 Windows 的 CCleaner Professional Plus 5 完整版独立离线安装程序。它是一套最新的清理程序 CCleaner、Defraggler、Recuva、Speccy，可让您的 PC 更快。

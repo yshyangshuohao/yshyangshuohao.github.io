@@ -1,11 +1,12 @@
 ---
 title: 超详细Ableton Live Suite 11.0.6免费下载安装
-date: 2021-09-16 22:08:11
 tags: Ableton Live Suite
-categories: 
-- Windows
-- 音频与音乐
-cover: https://img-blog.csdnimg.cn/dcec48621fcb40c180c99422a87590d1.png
+categories:
+  - Windows
+  - 音频与音乐
+cover: 'https://img-blog.csdnimg.cn/dcec48621fcb40c180c99422a87590d1.png'
+abbrlink: 19c9354b
+date: 2021-09-16 22:08:11
 ---
 
 免费下载适用于 Windows PC 的 Ableton Live Suite 11 带有效果、乐器、声音和各种创意功能——您制作任何音乐所需的一切。创建传统的线性排列，或即兴创作，不受 Live 会话视图中时间线的限制。在音乐元素之间自由移动，在不中断音乐的情况下发挥创意。

@@ -1,13 +1,14 @@
 ---
 title: 超详细Adobe Substance 3D Designer 11免费下载安装
-date: 2021-09-04 16:53:44
 tags:
-- Substance3DDesigner
-- Adobe
-categories: 
-- Windows
-- 工程与模拟
-cover: https://img-blog.csdnimg.cn/076af1249f6a4f2d8d0efd5fb3bee424.png
+  - Substance3DDesigner
+  - Adobe
+categories:
+  - Windows
+  - 工程与模拟
+cover: 'https://img-blog.csdnimg.cn/076af1249f6a4f2d8d0efd5fb3bee424.png'
+abbrlink: bcb01632
+date: 2021-09-04 16:53:44
 ---
 
 免费下载 Adob​​e Substance 3D Designer 11 for Windows 是一款终极 3D 材料创作和扫描处理工具。它已成为娱乐行业 PBR 素材创作的标准。

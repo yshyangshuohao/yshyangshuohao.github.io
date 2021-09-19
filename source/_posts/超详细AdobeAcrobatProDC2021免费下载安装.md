@@ -1,13 +1,14 @@
 ---
 title: 超详细Adobe Acrobat Pro DC 2021免费下载安装
+tags:
+  - Adobe Acrobat
+  - 2021
+categories:
+  - Windows
+  - 办公与PDF
+cover: 'https://img-blog.csdnimg.cn/8bc91c45327b425c83c89b2096797be8.png'
+abbrlink: f46092df
 date: 2021-09-11 08:42:57
-tags: 
-- Adobe Acrobat
-- 2021
-categories: 
-- Windows
-- 办公与PDF
-cover: https://img-blog.csdnimg.cn/8bc91c45327b425c83c89b2096797be8.png
 ---
 
 免费下载 Adob​​e Acrobat Pro DC 2021 for Windows PC with Document Cloud 服务包含转换、编辑和签署 PDF 所需的所有工具。它就像你一样移动。因此，您可以在工作时开始编写文档，在火车上对其进行调整，然后将其发送到您的客厅以供批准 - 无缝地，不会错过任何一个节拍。

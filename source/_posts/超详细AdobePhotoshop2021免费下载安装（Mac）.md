@@ -1,14 +1,15 @@
 ---
 title: 超详细Adobe Photoshop 2021 免费下载安装（Mac）
-date: 2021-09-13 20:36:02
 tags:
-- Photoshop
-- 2021
-- Adobe
-categories: 
-- Mac
-- 图形与多媒体
-cover: https://img-blog.csdnimg.cn/b4ae5374a09f461aaf319f10b1f45ce2.png
+  - Photoshop
+  - 2021
+  - Adobe
+categories:
+  - Mac
+  - 图形与多媒体
+cover: 'https://img-blog.csdnimg.cn/b4ae5374a09f461aaf319f10b1f45ce2.png'
+abbrlink: c0092235
+date: 2021-09-13 20:36:02
 ---
 
 免费下载 Adob​​e Photoshop CC 2021 v22 + 适用于 MacOS 的神经过滤器，从海报到包装，从基本横幅到漂亮的网站，从令人难忘的徽标到引人注目的图标，Photoshop CC 使创意世界不断前进。借助直观的工具和易于使用的模板，即使是初学者也能做出惊人的作品。

@@ -1,14 +1,15 @@
 ---
 title: 超详细Adobe Premiere Pro 2021免费下载安装（Mac）
-date: 2021-09-11 13:54:45
-tags: 
-- Adobe
-- Premiere Pro
-- 2021
+tags:
+  - Adobe
+  - Premiere Pro
+  - 2021
 categories:
-- Mac 
-- 图形与多媒体
-cover: https://img-blog.csdnimg.cn/57b440dc4820460eae26bf8ad79b473c.png
+  - Mac
+  - 图形与多媒体
+cover: 'https://img-blog.csdnimg.cn/57b440dc4820460eae26bf8ad79b473c.png'
+abbrlink: 375abc11
+date: 2021-09-11 13:54:45
 ---
 
 免费下载适用于 MacOS 的 Adob​​e Premiere Pro CC 2021，它是编辑从快速电视剧到故事片的所有内容的行业领导者。

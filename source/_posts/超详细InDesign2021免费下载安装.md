@@ -1,14 +1,15 @@
 ---
 title: 超详细Adobe InDesign 2021免费下载安装
-date: 2021-09-04 16:55:04
 tags:
-- InDesign
-- 2021
-- Adobe
-categories: 
-- Windows
-- 图形与设计
-cover: https://img-blog.csdnimg.cn/64a934e7734a4d19854d8e00de04aeca.jpg
+  - InDesign
+  - 2021
+  - Adobe
+categories:
+  - Windows
+  - 图形与设计
+cover: 'https://img-blog.csdnimg.cn/64a934e7734a4d19854d8e00de04aeca.jpg'
+abbrlink: 5718330e
+date: 2021-09-04 16:55:04
 ---
 
 免费下载适用于 Windows PC 的 Adob​​e InDesign CC 2021 v16 预激活离线安装程序。它拥有制作海报、书籍、数字杂志、电子书、交互式 PDF 等所需的一切。

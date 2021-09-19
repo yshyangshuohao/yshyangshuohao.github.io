@@ -1,14 +1,15 @@
 ---
 title: 超详细Adobe Audition 2021免费下载安装
-date: 2021-09-04 16:47:36
 tags:
-- Audition
-- 2021
-- Adobe
-categories: 
-- Windows
-- 音频与音乐
-cover: https://img-blog.csdnimg.cn/a421a88beccc4ab2bcbbefc4c5133637.png
+  - Audition
+  - 2021
+  - Adobe
+categories:
+  - Windows
+  - 音频与音乐
+cover: 'https://img-blog.csdnimg.cn/a421a88beccc4ab2bcbbefc4c5133637.png'
+abbrlink: f5aa77b
+date: 2021-09-04 16:47:36
 ---
 
 免费下载适用于 Windows 的 Adob​​e Audition 2021 Pre-Activated 离线安装程序 [Torrent + 直接下载]，使用业界最佳的数字音频编辑软件创建、混合和设计音效。

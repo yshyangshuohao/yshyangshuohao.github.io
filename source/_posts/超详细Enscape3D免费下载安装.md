@@ -1,11 +1,12 @@
 ---
 title: 超详细Enscape 3D免费下载安装
-date: 2021-09-17 22:40:41
 tags: Enscape 3D
-categories: 
-- Windows
-- 工程与模拟
-cover: https://img-blog.csdnimg.cn/013c5548ee434b058fedb6d9d70b0943.png
+categories:
+  - Windows
+  - 工程与模拟
+cover: 'https://img-blog.csdnimg.cn/013c5548ee434b058fedb6d9d70b0943.png'
+abbrlink: c5b9ffa
+date: 2021-09-17 22:40:41
 ---
 
 免费下载Revit / SketchUp / Rhino / ArchiCAD 的Enscape 3D是世界上唯一适用于 AutoDesk Revit、SketchUp、Rhinoceros 和 Graphisoft ArchiCAD 的 VR 和实时渲染插件。

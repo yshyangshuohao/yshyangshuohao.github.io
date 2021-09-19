@@ -1,13 +1,14 @@
 ---
 title: 超详细Autodesk Maya 2022免费下载安装
-date: 2021-09-11 08:37:13
 tags:
-- Maya
-- Adobe
-categories: 
-- Windows
-- 工程与模拟
-cover: https://img-blog.csdnimg.cn/e7e3a68685c24380bdbdf3350144bd24.png
+  - Maya
+  - Adobe
+categories:
+  - Windows
+  - 工程与模拟
+cover: 'https://img-blog.csdnimg.cn/e7e3a68685c24380bdbdf3350144bd24.png'
+abbrlink: 896ef8e4
+date: 2021-09-11 08:37:13
 ---
 
 免费下载适用于 Windows 的 Autodesk Maya 2022。它是一个跨平台的综合性 3D 建模、动画和渲染套件，专为游戏开发人员和电影制作人设计。

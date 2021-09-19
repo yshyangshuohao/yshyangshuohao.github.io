@@ -1,13 +1,14 @@
 ---
 title: 超详细Adobe Acrobat Pro DC v21.005.20058免费下载安装（Mac）
-date: 2021-09-13 23:01:08
 tags:
-- Acrobat Pro DC
-- Adobe
+  - Acrobat Pro DC
+  - Adobe
 categories:
-- Mac
-- 办公与PDF
-cover: https://img-blog.csdnimg.cn/e20352646c6545fb98032cf42f191610.png
+  - Mac
+  - 办公与PDF
+cover: 'https://img-blog.csdnimg.cn/e20352646c6545fb98032cf42f191610.png'
+abbrlink: 51d13bb2
+date: 2021-09-13 23:01:08
 ---
 
 免费下载 Adob​​e Acrobat Pro DC 21 for macOS with Document Cloud 服务，它包含转换、编辑和签署 PDF 所需的所有工具。它就像你一样移动。因此，您可以在工作时开始编写文档，在火车上对其进行调整，然后将其发送到您的客厅以供批准 - 无缝、简单、不会错过任何一个节拍。

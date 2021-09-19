@@ -1,12 +1,13 @@
 ---
 title: 超详细WinRAR 6.02 Final免费下载安装
-date: 2021-09-04 21:36:33
 tags:
-- WinRAR
-categories: 
-- Windows
-- 文件压缩
-cover: https://img-blog.csdnimg.cn/85221f798676463591b6cf54e6a3351a.jpg
+  - WinRAR
+categories:
+  - Windows
+  - 文件压缩
+cover: 'https://img-blog.csdnimg.cn/85221f798676463591b6cf54e6a3351a.jpg'
+abbrlink: 52c14eca
+date: 2021-09-04 21:36:33
 ---
 
 免费下载 WinRAR 6 完整版 + Portable for Windows PC 它具有特殊的压缩算法，对多媒体文件、可执行文件和对象库的压缩效果特别好。RAR 文件通常可以比 ZIP 文件多压缩 8% 到 15% 的内容。

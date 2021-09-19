@@ -1,10 +1,11 @@
 ---
 title: 超详细SnapTube – YouTube Downloader HD Video v5.22.0.5224410 Final免费下载安装（Android）
-date: 2021-09-11 13:50:38
-tags: 
-- SnapTube
+tags:
+  - SnapTube
 categories: Android
-cover: https://img-blog.csdnimg.cn/6ce5565e00874b10a594b5d422a3d01d.png
+cover: 'https://img-blog.csdnimg.cn/6ce5565e00874b10a594b5d422a3d01d.png'
+abbrlink: 8cae3cf8
+date: 2021-09-11 13:50:38
 ---
 
 

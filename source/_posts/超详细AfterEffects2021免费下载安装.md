@@ -1,14 +1,15 @@
 ---
 title: 超详细Adobe After Effects 2021免费下载安装
-date: 2021-09-04 14:04:34
 tags:
-- AfterEffects
-- 2021
-- Adobe
+  - AfterEffects
+  - 2021
+  - Adobe
 categories:
-- Windows 
-- 图形与设计
-cover: https://img-blog.csdnimg.cn/84b9ea223458477f912392f5e2ade07c.png
+  - Windows
+  - 图形与设计
+cover: 'https://img-blog.csdnimg.cn/84b9ea223458477f912392f5e2ade07c.png'
+abbrlink: 235780b1
+date: 2021-09-04 14:04:34
 ---
 
 免费下载适用于 Windows 的 Adob​​e After Effects CC 2021 预激活离线安装程序，以创建电影电影标题、介绍和过渡。

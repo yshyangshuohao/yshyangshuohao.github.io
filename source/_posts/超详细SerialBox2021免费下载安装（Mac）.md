@@ -1,13 +1,14 @@
 ---
 title: 超详细Serial Box 09.2021免费下载安装（Mac）
-date: 2021-09-12 21:15:57
 tags:
-- Serial Box
-- 2021
+  - Serial Box
+  - 2021
 categories:
-- Mac
-- 工具
-cover: https://img-blog.csdnimg.cn/4c047109e9fb4ec59dd137ad880493c8.png
+  - Mac
+  - 工具
+cover: 'https://img-blog.csdnimg.cn/4c047109e9fb4ec59dd137ad880493c8.png'
+abbrlink: 484c38ea
+date: 2021-09-12 21:15:57
 ---
 
 免费下载适用于 macOS 的串行盒。用户可以获得破解试用软件的序列号，转换为功能齐全的商业包。

@@ -1,14 +1,15 @@
 ---
 title: 超详细Adobe Premiere Pro 2021免费下载安装
-date: 2021-09-04 16:50:39
 tags:
-- PremierePro
-- 2021
-- Adobe
-categories: 
-- Windows
-- 图形与设计
-cover: https://img-blog.csdnimg.cn/810da1e1f9cc4de0b97891b5e8b035b8.png
+  - PremierePro
+  - 2021
+  - Adobe
+categories:
+  - Windows
+  - 图形与设计
+cover: 'https://img-blog.csdnimg.cn/810da1e1f9cc4de0b97891b5e8b035b8.png'
+abbrlink: '98743826'
+date: 2021-09-04 16:50:39
 ---
 
 免费下载适用于 Windows 的 Adob​​e Premiere Pro CC 2021 v15 预激活离线安装程序  是适用于电影、电视和网络的领先视频编辑软件。

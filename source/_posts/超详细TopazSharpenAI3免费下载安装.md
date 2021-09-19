@@ -1,11 +1,12 @@
 ---
 title: 超详细Topaz Sharpen AI 3.2.2免费下载安装
-date: 2021-09-07 22:48:47
 tags: Topaz Sharpen AI
-categories: 
-- Windows
-- 图形与设计
-cover: https://img-blog.csdnimg.cn/fc78ca8432304d7b9b430f7ff45a6c0e.png
+categories:
+  - Windows
+  - 图形与设计
+cover: 'https://img-blog.csdnimg.cn/fc78ca8432304d7b9b430f7ff45a6c0e.png'
+abbrlink: 4793c681
+date: 2021-09-07 22:48:47
 ---
 
 免费下载 Topaz Sharpen AI 3 for Windows 是第一款锐化和减少抖动的软件，可以区分真实细节和噪点。即使在手持拍摄、夜间拍摄或景深较浅的情况下，也能创建清晰锐利的图像。

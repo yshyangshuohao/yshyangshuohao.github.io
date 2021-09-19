@@ -1,13 +1,14 @@
 ---
 title: 超详细Google Chrome免费下载安装
+tags:
+  - Google Chrome
+  - 浏览器
+categories:
+  - Windows
+  - 网页浏览器
+cover: 'https://img-blog.csdnimg.cn/1defa4789372486d9248eb4336f07e4f.png'
+abbrlink: b6c4c324
 date: 2021-09-15 23:31:22
-tags: 
-- Google Chrome
-- 浏览器
-categories: 
-- Windows
-- 网页浏览器
-cover: https://img-blog.csdnimg.cn/1defa4789372486d9248eb4336f07e4f.png
 ---
 
 免费下载适用于 Windows PC 的 Google Chrome 92（32 位/64 位）最新的独立离线安装程序。它是一种快速且易于使用的 Web 浏览器，将简约的设计与先进的技术相结合，使 Web 更安全。

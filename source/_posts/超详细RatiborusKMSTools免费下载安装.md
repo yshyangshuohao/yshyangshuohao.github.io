@@ -1,12 +1,13 @@
 ---
 title: 超详细Ratiborus KMS Tools Portable 01.07.2021免费下载安装
-date: 2021-09-04 21:35:36
 tags:
-- RatiborusKMSTools
-categories: 
-- Windows
-- 工具
-cover: https://img-blog.csdnimg.cn/c00fd84bbdb34fb5b0c44f44fb503950.png
+  - RatiborusKMSTools
+categories:
+  - Windows
+  - 工具
+cover: 'https://img-blog.csdnimg.cn/c00fd84bbdb34fb5b0c44f44fb503950.png'
+abbrlink: e7e8e3d7
+date: 2021-09-04 21:35:36
 ---
 
 免费下载 Ratiborus KMS Tools Portable 01.07.2021 for Windows PC 适用于 Windows XP、Vista、7、8、8.1、10、Server 2008、2008 R2、2012、2012 R2、Office 2010/2013/的多合一激活器集合2016/2019。

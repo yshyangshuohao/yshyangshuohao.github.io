@@ -1,13 +1,14 @@
 ---
 title: 超详细Windows 10 Pro 10.0.19043.1165 Aug 2021免费下载安装
-date: 2021-09-13 23:08:28
 tags:
-- Windows 10 Pro
-- 2021
+  - Windows 10 Pro
+  - 2021
 categories:
-- Windows
-- 操作系统
-cover: https://img-blog.csdnimg.cn/64cd2e4659d54dc1a49bdb91ef39d501.png
+  - Windows
+  - 操作系统
+cover: 'https://img-blog.csdnimg.cn/64cd2e4659d54dc1a49bdb91ef39d501.png'
+abbrlink: a49e61b4
+date: 2021-09-13 23:08:28
 ---
 
 免费下载 Microsoft Windows 10 Pro 21H1 AIO (x86-x64) 多语言预激活 ISO。

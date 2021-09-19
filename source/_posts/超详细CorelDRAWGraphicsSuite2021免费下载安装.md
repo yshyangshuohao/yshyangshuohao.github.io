@@ -1,13 +1,14 @@
 ---
 title: 超详细CorelDRAW Graphics Suite 2021免费下载安装
+tags:
+  - CorelDRAWGraphicsSuite
+  - 2021
+categories:
+  - Windows
+  - 图形与设计
+cover: 'https://img-blog.csdnimg.cn/7158d5ccc27b43bd9191b452c8909748.png'
+abbrlink: ab68da85
 date: 2021-09-04 21:29:44
-tags: 
-- CorelDRAWGraphicsSuite
-- 2021
-categories: 
-- Windows
-- 图形与设计
-cover: https://img-blog.csdnimg.cn/7158d5ccc27b43bd9191b452c8909748.png
 ---
 
 免费下载适用于 Windows PC 的 CorelDRAW Graphics Suite 2021 v23（32 位/64 位）完整版离线安装程序，该程序通过在创纪录的时间内提供专家结果来帮助您制作和个性化项目。

@@ -1,14 +1,15 @@
 ---
 title: 超详细Adobe Media Encoder 2021免费下载安装
-date: 2021-09-04 21:32:40
 tags:
-- MediaEncoder
-- 2021
-- Adobe
-categories: 
-- Windows
-- 多媒体
-cover: https://img-blog.csdnimg.cn/a36dc4929eb34ecb9aa99c9ea70c14ae.jpg
+  - MediaEncoder
+  - 2021
+  - Adobe
+categories:
+  - Windows
+  - 多媒体
+cover: 'https://img-blog.csdnimg.cn/a36dc4929eb34ecb9aa99c9ea70c14ae.jpg'
+abbrlink: b4f56f53
+date: 2021-09-04 21:32:40
 ---
 
 免费下载适用于 Windows 的 Adob​​e Media Encoder CC 2021 预激活离线安装程序 。该软件可自动创建源文件、Adobe Premiere Pro 序列和 Adob​​e After Effects 合成的多个编码版本。

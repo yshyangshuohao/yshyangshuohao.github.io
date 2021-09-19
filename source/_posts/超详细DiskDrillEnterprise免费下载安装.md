@@ -1,11 +1,12 @@
 ---
 title: 超详细Disk Drill Enterprise免费下载安装
-date: 2021-09-18 23:58:38
 tags: Disk Drill Enterprise
-categories: 
-- Windows
-- 备份与恢复
-cover: https://img-blog.csdnimg.cn/07b05eda831f4a74808fb03772ae6ea9.png
+categories:
+  - Windows
+  - 备份与恢复
+cover: 'https://img-blog.csdnimg.cn/07b05eda831f4a74808fb03772ae6ea9.png'
+abbrlink: 9b680c67
+date: 2021-09-18 23:58:38
 ---
 
 # Disk Drill 

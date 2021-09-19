@@ -1,11 +1,12 @@
 ---
 title: 超详细Adobe Photoshop Express Premium v7.8.908免费下载安装（Android）
-date: 2021-09-12 10:50:11
 tags:
-- Photoshop Express Premium
-- Adobe
+  - Photoshop Express Premium
+  - Adobe
 categories: Android
-cover: https://img-blog.csdnimg.cn/110645aa15184d0a86f52785613fc8c9.png
+cover: 'https://img-blog.csdnimg.cn/110645aa15184d0a86f52785613fc8c9.png'
+abbrlink: 9acc04f1
+date: 2021-09-12 10:50:11
 ---
 
 免费下载 Adob​​e Photoshop Express 照片编辑器 Collage Maker 7 高级版/无需 Adob​​e ID 帐户 APK for Android。它是 Android 上最好的照片编辑器和拼贴制作工具。

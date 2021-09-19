@@ -1,14 +1,15 @@
 ---
 title: 超详细Adobe Photoshop 2021免费下载安装
-date: 2021-09-04 12:20:38
 tags:
-- Photoshop
-- 2021
-- Adobe
+  - Photoshop
+  - 2021
+  - Adobe
 categories:
-- Windows 
-- 图形与设计
-cover: https://img-blog.csdnimg.cn/3dbd7438f32b46beb4cfca6b1d6ea76f.jpg
+  - Windows
+  - 图形与设计
+cover: 'https://img-blog.csdnimg.cn/3dbd7438f32b46beb4cfca6b1d6ea76f.jpg'
+abbrlink: bd1d63db
+date: 2021-09-04 12:20:38
 ---
 
 免费下载 Adob​​e Photoshop CC 2020 / 2021 预激活离线安装程序 + Portable for Windows 是世界上最好的成像和图形设计软件。您可以创建和增强照片、插图和 3D 图稿。您还可以设计网站和移动应用程序。编辑视频模拟现实生活中的绘画等等。这是使任何想法成为现实所需的一切。

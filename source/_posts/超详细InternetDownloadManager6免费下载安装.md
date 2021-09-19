@@ -1,12 +1,13 @@
 ---
 title: 超详细Internet Download Manager (IDM) 6.39.2免费下载安装
-date: 2021-09-04 21:33:35
 tags:
-- InternetDownloadManager
-categories: 
-- Windows
-- 下载管理
-cover: https://img-blog.csdnimg.cn/673ef2e8bfca4e7eb96dd1e1f376776c.jpg
+  - InternetDownloadManager
+categories:
+  - Windows
+  - 下载管理
+cover: 'https://img-blog.csdnimg.cn/673ef2e8bfca4e7eb96dd1e1f376776c.jpg'
+abbrlink: f2b3da4d
+date: 2021-09-04 21:33:35
 ---
 
 免费下载 Internet Download Manager 6.39 IDM 完整版独立离线安装程序，适用于 Windows PC 它是一种将下载速度提高多达 5 倍、恢复和安排下载的工具。

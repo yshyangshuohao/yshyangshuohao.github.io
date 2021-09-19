@@ -1,11 +1,12 @@
 ---
 title: 超详细Image-Line FL Studio 20.8.4.2553免费下载安装
-date: 2021-09-16 22:15:12
 tags: Image-Line FL Studio
-categories: 
-- Windows
-- 音频与音乐
-cover: https://img-blog.csdnimg.cn/edad3af81550443d98256b2c79d812f0.png
+categories:
+  - Windows
+  - 音频与音乐
+cover: 'https://img-blog.csdnimg.cn/edad3af81550443d98256b2c79d812f0.png'
+abbrlink: 55a567fc
+date: 2021-09-16 22:15:12
 ---
 
 免费下载 Image-Line FL Studio 20 Producer Edition + Signature Bundle for Windows PC 是用于音乐制作环境或数字音频工作站 (DAW) 的完整软件。

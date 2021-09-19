@@ -1,11 +1,12 @@
 ---
 title: 超详细Acronis Cyber Protect免费下载安装
-date: 2021-09-16 22:21:34
 tags: Acronis Cyber Protect
-categories: 
-- Windows
-- 备份与恢复
-cover: https://img-blog.csdnimg.cn/5ed54337e1764446a59cfad1ffacf81d.png
+categories:
+  - Windows
+  - 备份与恢复
+cover: 'https://img-blog.csdnimg.cn/5ed54337e1764446a59cfad1ffacf81d.png'
+abbrlink: 3082b136
+date: 2021-09-16 22:21:34
 ---
 
 免费下载适用于 Windows PC 的 Acronis True Image 以创建可靠的备份，因为您始终拥有可靠的数据副本，因此您可以还原整个系统或单个文件。

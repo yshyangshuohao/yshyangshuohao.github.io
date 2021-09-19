@@ -1,14 +1,15 @@
 ---
 title: 超详细Microsoft Office 2019 for Mac 16.52 VL免费下载安装（Mac）
-date: 2021-09-13 23:06:29
 tags:
-- Office
-- 2019
-- Microsoft
+  - Office
+  - 2019
+  - Microsoft
 categories:
-- Mac
-- 办公与PDF
-cover: https://img-blog.csdnimg.cn/4b0c154147154ac2806456ab33863d32.png
+  - Mac
+  - 办公与PDF
+cover: 'https://img-blog.csdnimg.cn/4b0c154147154ac2806456ab33863d32.png'
+abbrlink: 818fb4a2
+date: 2021-09-13 23:06:29
 ---
 
 免费下载 Microsoft Office 2019 for Mac v16 for macOS，用于在 Mac 上获取最新和高级的 Microsoft Office 功能。

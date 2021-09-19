@@ -1,14 +1,15 @@
 ---
 title: 超详细Adobe Dreamweaver 2021免费下载安装
-date: 2021-09-04 16:41:21
 tags:
-- Dreamweaver
-- 2020
-- Adobe
-categories: 
-- Windows
-- 网络与编程
-cover: https://img-blog.csdnimg.cn/2895e9a759d24bd1bfb71952ef98b3ed.jpg
+  - Dreamweaver
+  - 2020
+  - Adobe
+categories:
+  - Windows
+  - 网络与编程
+cover: 'https://img-blog.csdnimg.cn/2895e9a759d24bd1bfb71952ef98b3ed.jpg'
+abbrlink: 5834f5f1
+date: 2021-09-04 16:41:21
 ---
 
 免费下载适用于 Windows PC 的 Adob​​e Dreamweaver CC 2021，它为您提供了更快、更轻松的方法来设计、编码和发布在任何尺寸的屏幕上看起来都很棒的网站和 Web 应用程序。

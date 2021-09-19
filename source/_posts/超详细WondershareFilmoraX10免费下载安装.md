@@ -1,12 +1,13 @@
 ---
 title: 超详细Wondershare Filmora X v10.1.20.16免费下载安装
-date: 2021-09-04 21:34:36
 tags:
-- WondershareFilmoraX
-categories: 
-- Windows
-- 视频编辑
-cover: https://img-blog.csdnimg.cn/9eac2f07a59641f3a812f6574fb4f74c.jpg
+  - WondershareFilmoraX
+categories:
+  - Windows
+  - 视频编辑
+cover: 'https://img-blog.csdnimg.cn/9eac2f07a59641f3a812f6574fb4f74c.jpg'
+abbrlink: 27bff45a
+date: 2021-09-04 21:34:36
 ---
 
 免费下载 Wondershare Filmora X 10 完整版 + 适用于 Windows PC 的便携版它是一款多功能的家庭视频编辑器，具有强大的功能和完全堆叠的功能集。Filmora 有一个简单的拖放界面，让您可以自由地创作想要创作的故事。

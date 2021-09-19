@@ -1,11 +1,12 @@
 ---
 title: 超详细Nitro Pro 13.49.2.993 Enterprise免费下载安装
-date: 2021-09-11 08:39:59
 tags: Nitro Pro
-categories: 
-- Windows
-- 办公与PDF
-cover: https://img-blog.csdnimg.cn/8eb7f2ea748c4d84bfa794eea1c4e151.png
+categories:
+  - Windows
+  - 办公与PDF
+cover: 'https://img-blog.csdnimg.cn/8eb7f2ea748c4d84bfa794eea1c4e151.png'
+abbrlink: 96dff31e
+date: 2021-09-11 08:39:59
 ---
 
 免费下载适用于 Windows PC 的 Nitro Pro 13 企业/零售完整版为您提供创建、转换、编辑、签名和共享标准 PDF 文件所需的一切。它使用起来简单、直接且直观 - 因此您可以按照自己的方式更高效地工作。

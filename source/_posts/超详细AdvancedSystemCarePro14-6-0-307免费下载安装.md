@@ -1,11 +1,12 @@
 ---
 title: 超详细Advanced System CarePro 14.6.0.307免费下载安装
-date: 2021-09-10 22:34:25
 tags: Advanced System CarePro
-categories: 
-- Windows
-- 工具
-cover: https://img-blog.csdnimg.cn/9349e2ef4ebc4b53a230f0007d440177.png
+categories:
+  - Windows
+  - 工具
+cover: 'https://img-blog.csdnimg.cn/9349e2ef4ebc4b53a230f0007d440177.png'
+abbrlink: c878c325
+date: 2021-09-10 22:34:25
 ---
 
 免费下载适用于 Windows PC 的 IObit Advanced SystemCare Pro 可保护 PC 免受恶意感染，并针对更清洁、更快的 PC 进行优化。

@@ -1,11 +1,12 @@
 ---
 title: 超详细Nik Collection by DxO 4.1.1.0免费下载安装
-date: 2021-09-13 23:10:04
 tags: Nik Collection by DxO
 categories:
-- Windows
-- 图形与设计
-cover: https://img-blog.csdnimg.cn/b0861f8349cf41eb9daa0b74b0178316.png
+  - Windows
+  - 图形与设计
+cover: 'https://img-blog.csdnimg.cn/b0861f8349cf41eb9daa0b74b0178316.png'
+abbrlink: cee47b84
+date: 2021-09-13 23:10:04
 ---
 
 免费下载适用于 Windows 的 DxO 4 Nik Collection 。它是用于 Adob​​e Photoshop、Adobe Photoshop Elements 和 Adob​​e Lightroom 的 7 个著名创意 MacOS 和 Windows 插件系列，提供滤镜、渲染和摄影修饰工具以创建令人惊叹的图像。

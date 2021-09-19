@@ -1,12 +1,13 @@
 ---
 title: 超详细V-Ray 5.10.06 for SketchUp免费下载安装
-date: 2021-09-04 21:31:22
 tags:
-- V-Ray5forSketchUp
-categories: 
-- Windows
-- 工程与模拟
-cover: https://img-blog.csdnimg.cn/807f9a7f595943d1ac1e43ca0126e3d7.jpg
+  - V-Ray5forSketchUp
+categories:
+  - Windows
+  - 工程与模拟
+cover: 'https://img-blog.csdnimg.cn/807f9a7f595943d1ac1e43ca0126e3d7.jpg'
+abbrlink: 883fdaf9
+date: 2021-09-04 21:31:22
 ---
 
 免费下载 V-Ray Next Build 5 for SketchUp 2016-2021 by Chaos Group for Windows PC 是建筑师和设计师的专业照明和渲染工具。

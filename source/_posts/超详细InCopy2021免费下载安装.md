@@ -1,14 +1,15 @@
 ---
 title: 超详细Adobe InCopy 2021免费下载安装
-date: 2021-09-04 16:43:57
 tags:
-- InCopy
-- 2021
-- Adobe
-categories: 
-- Windows
-- 办公与PDF
-cover: https://img-blog.csdnimg.cn/0433c2c3bd7247d4aec522e9019ec68e.png
+  - InCopy
+  - 2021
+  - Adobe
+categories:
+  - Windows
+  - 办公与PDF
+cover: 'https://img-blog.csdnimg.cn/0433c2c3bd7247d4aec522e9019ec68e.png'
+abbrlink: 35d7c525
+date: 2021-09-04 16:43:57
 ---
 
 免费下载 Adob​​e InCopy CC 2021 v16 预激活的 Windows PC 脱机安装程序，使用此程序，作者和编辑人员可以在设计师使用Adobe InDesign CC开发其外观的同时对文本进行样式化、跟踪更改和修改文档布局- 无需担心不小心覆盖某人工作的影响。

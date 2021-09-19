@@ -1,14 +1,15 @@
 ---
 title: 超详细Adobe Illustrator 2021免费下载安装
-date: 2021-09-04 14:04:48
 tags:
-- Illustrator
-- 2021
-- Adobe
-categories: 
-- Windows
-- 图形与设计
-cover: https://img-blog.csdnimg.cn/910510c81859427cad93c8bab719339e.jpg
+  - Illustrator
+  - 2021
+  - Adobe
+categories:
+  - Windows
+  - 图形与设计
+cover: 'https://img-blog.csdnimg.cn/910510c81859427cad93c8bab719339e.jpg'
+abbrlink: 7534f5c
+date: 2021-09-04 14:04:48
 ---
 
 免费下载 Adob​​e Illustrator CC 2021 v25 Pre-Activated Offline Installer + Portable for Windows PC 它是行业标准的矢量图形软件，可让您为印刷、Web、视频和移动创建徽标、图标、绘图、版式和插图。

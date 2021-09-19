@@ -1,14 +1,15 @@
 ---
 title: 超详细Adobe Substance 3D Stager免费下载安装
-date: 2021-09-04 16:38:47
 tags:
-- Substance3DStager
-- 2021
-- Adobe
-categories: 
-- Windows
-- 工程与模拟
-cover: https://img-blog.csdnimg.cn/546358348d27478c9fa6aa0a2dfe36ab.png
+  - Substance3DStager
+  - 2021
+  - Adobe
+categories:
+  - Windows
+  - 工程与模拟
+cover: 'https://img-blog.csdnimg.cn/546358348d27478c9fa6aa0a2dfe36ab.png'
+abbrlink: 26d3f3f3
+date: 2021-09-04 16:38:47
 ---
 
 免费下载适用于 Windows 的 Adob​​e Substance 3D Stager 完整版独立离线安装程序，这是用于场景设计和渲染的强大暂存工具。

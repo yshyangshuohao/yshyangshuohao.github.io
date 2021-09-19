@@ -1,13 +1,14 @@
 ---
 title: 超详细Adobe XD CC 2021免费下载安装
-date: 2021-09-04 16:49:18
 tags:
-- AdobeXD
-- Adobe
-categories: 
-- Windows
-- 网络与编程
-cover: https://img-blog.csdnimg.cn/017cd1f4400c4f33a6af40f01ae4fa78.png
+  - AdobeXD
+  - Adobe
+categories:
+  - Windows
+  - 网络与编程
+cover: 'https://img-blog.csdnimg.cn/017cd1f4400c4f33a6af40f01ae4fa78.png'
+abbrlink: 1d164be6
+date: 2021-09-04 16:49:18
 ---
 
 免费下载适用于 Windows PC 的 Adob​​e XD CC 2021 Pre-Activated Offline Installer 完整版，也称为 Adob​​e Experience Design，是用于设计网站、移动应用程序等的一体化 UX/UI 解决方案。使用新的 XD 入门计划，它快速、简单且免费。

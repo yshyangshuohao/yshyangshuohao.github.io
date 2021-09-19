@@ -1,9 +1,10 @@
 ---
 title: 超详细MX Player Pro v1.36.11免费下载安装（Android）
-date: 2021-09-12 10:52:05
 tags: MX Player Pro
 categories: Android
-cover: https://img-blog.csdnimg.cn/fa64f72f16ad4a72ba5904d532231955.png
+cover: 'https://img-blog.csdnimg.cn/fa64f72f16ad4a72ba5904d532231955.png'
+abbrlink: bdb31f9f
+date: 2021-09-12 10:52:05
 ---
 
 免费下载 MX Player Pro APK [解锁/无广告/AC3/DTS] for Android，它是一款功能强大的视频播放器，具有先进的硬件加速和字幕支持。

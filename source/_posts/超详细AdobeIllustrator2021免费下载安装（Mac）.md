@@ -1,14 +1,15 @@
 ---
 title: 超详细Adobe Illustrator 2021免费下载安装（Mac）
-date: 2021-09-13 20:38:10
 tags:
-- Illustrator
-- 2021
-- Adobe
-categories: 
-- Mac
-- 图形与多媒体
-cover: https://img-blog.csdnimg.cn/6f3db8a6787d4d57a41e77da4e8b2885.png
+  - Illustrator
+  - 2021
+  - Adobe
+categories:
+  - Mac
+  - 图形与多媒体
+cover: 'https://img-blog.csdnimg.cn/6f3db8a6787d4d57a41e77da4e8b2885.png'
+abbrlink: 1268ce57
+date: 2021-09-13 20:38:10
 ---
 
 免费下载适用于 MacOS 的 Adob​​e Illustrator CC 2021，它是行业标准的矢量图形软件，可让您创建用于印刷、Web、视频和移动设备的徽标、图标、绘图、排版和插图。

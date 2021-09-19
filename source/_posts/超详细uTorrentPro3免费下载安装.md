@@ -1,12 +1,13 @@
 ---
 title: 超详细UTorrent Pro 3.5.5.46090免费下载安装
-date: 2021-09-04 21:37:29
 tags:
-- uTorrentPro
-categories: 
-- Windows
-- 下载管理
-cover: https://img-blog.csdnimg.cn/c859649c16f24b8792833e7ff42488b9.jpg
+  - uTorrentPro
+categories:
+  - Windows
+  - 下载管理
+cover: 'https://img-blog.csdnimg.cn/c859649c16f24b8792833e7ff42488b9.jpg'
+abbrlink: fd78c5f2
+date: 2021-09-04 21:37:29
 ---
 
 免费下载适用于 Windows PC 的 uTorrent Pro 3.5.5 完整版最新独立离线安装程序。它是一个快速、简单、免费且紧凑的 Torrent 客户端。该程序结合了少量的最佳功能。它支持与徒步旅行者无关的工作，让您同时下载多个文件，具有可定制的带宽，中断下载的快速恢复等等。

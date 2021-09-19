@@ -1,14 +1,15 @@
 ---
 title: 超详细Adobe Photoshop Lightroom Classic 2021免费下载安装
-date: 2021-09-04 16:45:46
 tags:
-- PhotoshopLightroomClassic
-- 2021
-- Adobe
-categories: 
-- Windows
-- 图形与设计
-cover: https://img-blog.csdnimg.cn/e9b8fe75422b4b25bca89dd0a8ded381.png
+  - PhotoshopLightroomClassic
+  - 2021
+  - Adobe
+categories:
+  - Windows
+  - 图形与设计
+cover: 'https://img-blog.csdnimg.cn/e9b8fe75422b4b25bca89dd0a8ded381.png'
+abbrlink: 65b7cfec
+date: 2021-09-04 16:45:46
 ---
 
 免费下载适用于 Windows 的 Adob​​e Photoshop Lightroom Classic 2021 预激活离线安装程序是数字摄影师工具集中最强大的工具之一。它在简化的界面中提供强大的编辑功能，让摄影师可以导入、排序和组织图像。

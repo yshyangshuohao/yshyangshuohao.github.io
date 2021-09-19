@@ -1,13 +1,14 @@
 ---
 title: 超详细Adobe Substance 3D Sampler免费下载安装
-date: 2021-09-04 16:52:08
 tags:
-- Substance3DSampler
-- Adobe
-categories: 
-- Windows
-- 图形与设计
-cover: https://img-blog.csdnimg.cn/cbc9ec7217db47afb6e0f6e46c31b9fd.png
+  - Substance3DSampler
+  - Adobe
+categories:
+  - Windows
+  - 图形与设计
+cover: 'https://img-blog.csdnimg.cn/cbc9ec7217db47afb6e0f6e46c31b9fd.png'
+abbrlink: 88d6f6c6
+date: 2021-09-04 16:52:08
 ---
 
 免费下载适用于 Windows 的 Adob​​e Substance 3D Sampler 完整版独立离线安装程序，该软件可将真实世界的图片转换为 3D 材料。

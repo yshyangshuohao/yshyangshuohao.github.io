@@ -1,11 +1,12 @@
 ---
 title: 超详细IObit Uninstaller Pro 10.6.0.7免费下载安装
-date: 2021-09-09 23:12:54
 tags: IObit Uninstaller Pro
-categories: 
-- Windows
-- 工具
-cover: https://img-blog.csdnimg.cn/0e0a2353bf8e4b83b2b439b82fc3a6ea.png
+categories:
+  - Windows
+  - 工具
+cover: 'https://img-blog.csdnimg.cn/0e0a2353bf8e4b83b2b439b82fc3a6ea.png'
+abbrlink: c27b6e76
+date: 2021-09-09 23:12:54
 ---
 
 免费下载适用于 Windows PC 的 IObit Uninstaller Pro 11 完整版离线安装程序。由于批量卸载功能、对大多数 Windows 版本的支持以及快速安装本身，它是 Windows 上最好的免费软件卸载程序之一。

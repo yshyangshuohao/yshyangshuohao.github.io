@@ -1,14 +1,15 @@
 ---
 title: 超详细Adobe After Effects 2021免费下载安装（Mac）
-date: 2021-09-13 20:39:43
 tags:
-- After Effects
-- 2021
-- Adobe
+  - After Effects
+  - 2021
+  - Adobe
 categories:
-- Mac
-- 图形与多媒体
-cover: https://img-blog.csdnimg.cn/36c5766103744e768dda4069a0be84b5.png
+  - Mac
+  - 图形与多媒体
+cover: 'https://img-blog.csdnimg.cn/36c5766103744e768dda4069a0be84b5.png'
+abbrlink: 12e59e43
+date: 2021-09-13 20:39:43
 ---
 
 免费下载适用于 MacOS 的 Adob​​e After Effects CC 2021，以创建电影电影标题、介绍和过渡。借助行业标准的动态图形和视觉效果软件 After Effects CC，您可以将任何想法付诸实践。您可以生火或下雨或为徽标或角色设置动画。

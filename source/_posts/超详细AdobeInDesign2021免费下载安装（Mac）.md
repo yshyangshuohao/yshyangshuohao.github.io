@@ -1,14 +1,15 @@
 ---
 title: 超详细Adobe InDesign 2021免费下载安装（Mac）
-date: 2021-09-13 23:04:49
 tags:
-- InDesign
-- 2021
-- Adobe
+  - InDesign
+  - 2021
+  - Adobe
 categories:
-- Mac
-- 图形与多媒体
-cover: https://img-blog.csdnimg.cn/b8803f9f7b0143ae8caea71a27eda5ac.png
+  - Mac
+  - 图形与多媒体
+cover: 'https://img-blog.csdnimg.cn/b8803f9f7b0143ae8caea71a27eda5ac.png'
+abbrlink: ffb10a0c
+date: 2021-09-13 23:04:49
 ---
 
 免费下载适用于 MacOS 的 Adob​​e InDesign CC 2021，它是行业领先的页面设计软件和布局应用程序，可让您创建、预检和发布用于印刷和数字媒体的精美文档。
