@@ -9,6 +9,7 @@
 menu:
   首页: / || fas fa-home
   加群求助: /cooperation/ || fas fa-user-circle
+  知识星球: /zsxq/ || fas fa-user-circle
   时间轴: /archives/ || fas fa-archive
   标签: /tags/ || fas fa-tags
   分类: /categories/ || fas fa-folder-open
