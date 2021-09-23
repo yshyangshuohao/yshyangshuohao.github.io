@@ -8,7 +8,7 @@
 
 menu:
   首页: / || fas fa-home
-  商务合作: /cooperation/ || fas fa-user-circle
+  加群求助: /cooperation/ || fas fa-user-circle
   时间轴: /archives/ || fas fa-archive
   标签: /tags/ || fas fa-tags
   分类: /categories/ || fas fa-folder-open
@@ -95,7 +95,7 @@ disable_top_img: false
 index_img:
 
 # If the banner of page not setting, it will show the top_img
-default_top_img: https://img-blog.csdnimg.cn/36bcd59913f349e098a854da361532ab.gif#pic_center
+default_top_img: https://img-blog.csdnimg.cn/492da51f10d44d17ae6092b6fe7d9e91.gif#pic_center
 
 # The banner image of archive page
 archive_img:
@@ -626,7 +626,7 @@ subtitle:
   # 如果有英文雙引號' " ',請使用轉義字元 &quot;
   # 開頭不允許轉義字元，如需要，請把整個句子用雙引號包住
   # 如果關閉打字效果，subtitle只會顯示sub的第一行文字
-  sub: 专注软件下载、安装、环境搭建
+  sub: 专注破解软件下载、安装、环境搭建
 
 # Loading Animation (加載動畫)
 preloader: true
